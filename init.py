@@ -26,4 +26,3 @@ def get_local_ip():
                 if '192.168' in ip:
                     return ip
     return None
-
